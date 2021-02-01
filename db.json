@@ -1,0 +1,30 @@
+﻿{
+  "users": {
+    "user": [
+      {
+        "isbn": "93848571",
+        "name": "Una noche en Ultratumba",
+        "type": "Literatura Nacional",
+        "gender": "Terror",
+        "autor": "Federico Alpizar",
+        "year": "1999"
+      },
+      {
+        "isbn": "245661",
+        "name": "Tom y la Navidad",
+        "type": "Literatura Extranjera",
+        "gender": "Comedia",
+        "autor": "Juan Roberts",
+        "year": "1986"
+      },
+      {
+        "isbn": "134453",
+        "name": "Un loco anda suelto",
+        "type": "Literatura Extranjera",
+        "gender": "Comedia",
+        "autor": "Leonel Lopez",
+        "year": "2006"
+      }
+    ]
+  }
+}
